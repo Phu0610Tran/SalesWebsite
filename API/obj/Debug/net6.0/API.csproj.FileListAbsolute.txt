@@ -73,3 +73,14 @@ D:\PHU\DuAn_CaNhan\SalesWebsite\API\obj\Debug\net6.0\refint\API.dll
 D:\PHU\DuAn_CaNhan\SalesWebsite\API\obj\Debug\net6.0\API.pdb
 D:\PHU\DuAn_CaNhan\SalesWebsite\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\PHU\DuAn_CaNhan\SalesWebsite\API\obj\Debug\net6.0\ref\API.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\AgileObjects.AgileMapper.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\AgileObjects.NetStandardPolyfills.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\AgileObjects.ReadableExpressions.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\Aspose.Cells.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\SkiaSharp.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\PHU\DuAn_CaNhan\SalesWebsite\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
